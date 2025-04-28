@@ -1,4 +1,4 @@
-# zenInstitute
+# zenInstitute - Stand alone application
 ZenInstitute is a student management system. The main language I here used in is Java and Java Swing
 
 <h3>Design Approach:</h3>
@@ -25,8 +25,7 @@ role (admin, teacher, student).
 
 <h3>User Roles and Permissions:</h3>
 The application will cater to different user roles with specific functionalities and data access
-restrictions. Here are some potential user roles and functionalities (specific details can be
-customized based on Zen Institute’s needs):
+restrictions. Here are some user roles and functionalities
 <br></br>
 • <b>Student</b>: View and update their personal information (with certain restrictions).
 View their class schedules and details. View their payment history and current
@@ -37,9 +36,4 @@ information related to students in their classes. Manage their class students<br
 student profiles. Manage user credentials and access levels. Track and manage
 student payments. Generate and view various reports, including student
 performance, and payment reports.<br><br>
-
-This revised text focuses on the functionality of a standalone application for ZenInstitute,
-removing references to web-specific features and highlighting functionalities relevant to
-institute staff. Remember, these are suggestions, and we can further refine them based on
-your specific requirements for the Zen Institute software.
 
