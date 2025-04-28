@@ -2,7 +2,7 @@
 ZenInstitute is a student management system. The main language I here used in is Java and Java Swing
 
 <h3>Design Approach:</h3>
-• Intuitive Navigation: The interface will be designed for ease of use with clear menus,
+• Intuitive Navigation: The interface is designed for ease of use with clear menus,
 icons, and workflows relevant to each user role within the Institute.
 • User-Centric Design: We prioritize user experience (UX) by conducting user research
 and designing an intuitive and user-friendly interface for the application.
