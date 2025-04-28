@@ -1,4 +1,4 @@
-# zenInstitute - Stand alone application
+# zenInstitute - Stand Alone Application
 ZenInstitute is a student management system. The main language I here used in is Java and Java Swing
 
 <h3>Design Approach:</h3>
