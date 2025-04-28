@@ -1,5 +1,6 @@
 # zenInstitute
-Student Management System
+ZenInstitute is a student management system. The main language I here used in is Java and Java Swing
+
 Zen Institute Software: User Interface and Design
 Design Approach:
  Intuitive Navigation: The interface will be designed for ease of use with clear menus,
